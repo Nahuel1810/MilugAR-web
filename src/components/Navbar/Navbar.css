@@ -1,0 +1,6 @@
+.bg-scroll {
+    background-color: #000000;
+    z-index: 2;
+    transition: background-color 1s ease-in-out;
+    /* Transición suave */
+}
